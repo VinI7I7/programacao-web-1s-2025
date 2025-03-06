@@ -4,3 +4,12 @@ let result;
 
 result = numA + numB;
 console.log(`Resultado da adiçao entre ${numA} e ${numB} é ${result}`);
+
+result = numA - numB;
+console.log(`Resultado da adiçao entre ${numA} e ${numB} é ${result}`);
+
+result = numA * numB;
+console.log(`Resultado da adiçao entre ${numA} e ${numB} é ${result}`);
+
+result = numA / numB;
+console.log(`Resultado da adiçao entre ${numA} e ${numB} é ${result}`);
